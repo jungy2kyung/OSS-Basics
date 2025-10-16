@@ -1,6 +1,6 @@
 # OSS-Basics
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=320&section=header&text=opensource%20basic&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=320&section=header&text=Opensource%20Basics&fontSize=85)
 ### 👩🏻‍💻 2025-2 오픈소스 프로젝트
 ***
 ### *Team 3*
